@@ -1,8 +1,8 @@
-#include <stdio.h>
 #include "hello.h"
 
-int main()
+//define class
+//define functions
+void say_hello()
 {
-    say_hello();
-    return 0;
+    printf("Hello World!\n");
 }

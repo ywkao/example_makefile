@@ -1,9 +1,12 @@
 #ifndef _HELLO_H_
 #define _HELLO_H_ 
+#include <stdio.h>
+#include <TLorentzVector.h>
 
-void say_hello()
-{
-    printf("Hello World!\n");
-}
+using namespace std;
+
+//declare class
+//declare functions
+void say_hello();
 
 #endif
